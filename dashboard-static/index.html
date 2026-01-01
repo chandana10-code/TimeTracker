@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Productivity Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h2>Weekly Productivity Report</h2>
+  <canvas id="chart"></canvas>
+
+  <script>
+    fetch("http://localhost:5000/api/activity/weekly")
+      .then(res => res.json())
+      .then(data => {
+        new Chart(document.getElementById("chart"), {
+          type: "pie",
+          data: {
+            labels: data.map(d => d._id),
+            datasets: [{
+              data: data.map(d => d.totalTime)
+            }]
+          }
+        });
+      });
+  </script>
+</body>
+</html>
