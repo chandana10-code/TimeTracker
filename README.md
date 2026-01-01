@@ -88,6 +88,8 @@ Allow export of productivity reports in PDF or Excel formats.
 
 #Output
 
+<img width="956" height="1000" alt="Image" src="https://github.com/user-attachments/assets/d46b5e21-bab7-4184-8611-34f9a20a8d73" />
 
+<img width="1259" height="1000" alt="Image" src="https://github.com/user-attachments/assets/3dec0666-3f9c-4e8e-9f61-9b5d2824d3a9" />
 
-
+<img width="1024" height="746" alt="Image" src="https://github.com/user-attachments/assets/b15793fb-e895-44ae-8021-0c4108f0a95d" />
