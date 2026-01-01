@@ -87,3 +87,11 @@ Provide alerts for excessive unproductive browsing.
 Allow export of productivity reports in PDF or Excel formats.
 
 #Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8ad28bb8-c519-45bf-a354-2875908cf6cd" />
+
+<img width="1204" height="940" alt="Image" src="https://github.com/user-attachments/assets/fcd70026-a558-40c3-9265-9f976b63c8fc" />
+
+<img width="1024" height="746" alt="Image" src="https://github.com/user-attachments/assets/6ad41131-ddef-43ca-88cc-62d3aa298c81" />
+
+<img width="1279" height="705" alt="Image" src="https://github.com/user-attachments/assets/8f72867a-04e0-4e2a-b05e-686bc5b34c7d" />
